@@ -1,5 +1,5 @@
 # BurpSuiteProLoader
-Loader burpsuite 1.7.x and burpsuite2021 from diffent jdk
+Loader burpsuite 1.7.x and burpsuite2021 from different jdk version
 
 # Dependents
 ### Windows
