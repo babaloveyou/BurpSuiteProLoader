@@ -19,5 +19,9 @@ go-winres make && go build -ldflags="-H windowsgui"
 go build
 ```
 # Use
-```burpsuite 2021 create shortcut and modify  target : YOUR_BURPJAR_PATH/BurpSuitePro.exe -jdk 11```
-```burpsuite 1.7.x create shortcut and modify  target : YOUR_BURPJAR_PATH/BurpSuitePro.exe -jdk 8```
+```burpsuite 2021 
+create shortcut and modify  target : YOUR_BURPJAR_PATH/BurpSuitePro.exe -jdk 11
+```
+```burpsuite 1.7.x 
+create shortcut and modify  target : YOUR_BURPJAR_PATH/BurpSuitePro.exe -jdk 8
+```
